@@ -1,3 +1,2 @@
 echo "Hit that";
 echo "Hit that too";
-echo "Source";
