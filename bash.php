@@ -2,7 +2,7 @@
 
 class bash {
 
-
+public $bash = "general";
 
 
 }
