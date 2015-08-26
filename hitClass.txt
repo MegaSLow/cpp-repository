@@ -2,3 +2,5 @@ echo "Hit that";
 echo "Hit that Иосиф";
 echo "Peppa";
 die();
+echo "Manage";
+echo "Helper";
