@@ -2,7 +2,7 @@
 
 class punch {
 
-
+public $punch = true;
 
 
 }
