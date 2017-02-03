@@ -1,6 +1,6 @@
 # repository for algorithms 
 
-Available algorithms 
-1.Floyd-warshells algorithm
-2.Dual Pivot QuickSort
+Available algorithms\n
+1.Floyd-warshells algorithm\n
+2.Dual Pivot QuickSort\n
 
