@@ -1,3 +1,3 @@
-# cpp-repository
+# repository for algorithms 
 
-Repository for my laboratory works C++;
+
