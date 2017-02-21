@@ -1,4 +1,4 @@
-# repository for algorithms 
+# repository for algorithms and data structures
 
 Available algorithms and data structures
 <ul>
