@@ -4,7 +4,7 @@ using System.Linq;
 namespace Heap
 {
   
-    // Min heap and max heap are available
+    // Min heap and max heap available
     public class MaxHeap
     {
         int[] heap_array;
